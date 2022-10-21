@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" /><br />
-  <img src="https://img.shields.io/badge/I LOVE CHUPACHUPS-FF6384?style=for-the-badge&logo=Chupa Chups&logoColor=white" />
+  <img src="https://img.shields.io/badge/I LOVE CHUPA CHUPS-FF6384?style=for-the-badge&logo=Chupa Chups&logoColor=white" />
 </div>
