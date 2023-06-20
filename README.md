@@ -3,8 +3,8 @@
     𝑾𝒆𝒍𝒄𝒐𝒎𝒆<em><strong>!</strong></em>
   </h1>
 <!--   <img src="https://user-images.githubusercontent.com/103915296/197237732-f9837d4a-5065-431d-89af-6afd1a1fd0e0.jpg" width="300px" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/103915296/213193751-e5f389e7-9cba-4814-964d-485855cdac0b.gif" width="300px" /> -->
-<img src="https://user-images.githubusercontent.com/103915296/229843560-d850959a-e30a-4fdc-a1dc-4b458025676c.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/103915296/213193751-e5f389e7-9cba-4814-964d-485855cdac0b.gif" width="300px" />
+<!--   <img src="https://user-images.githubusercontent.com/103915296/229843560-d850959a-e30a-4fdc-a1dc-4b458025676c.jpg" width="300px" /> -->
 
   <h2 style="font-size: 50px">𝘑𝘪𝘩𝘺𝘶𝘯 ˗ˋˏ♡ˎˊ˗ 𝘎𝘪𝘵𝘩𝘶𝘣</h2>
   <h4>💫Tech Stack💫</h4>
