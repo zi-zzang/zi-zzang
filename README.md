@@ -20,5 +20,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><br />
-  <img src="https://img.shields.io/badge/I LOVE CHUPA CHUPS-FF6384?style=for-the-badge&logo=Chupa Chups&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/I LOVE CHUPA CHUPS-FF6384?style=for-the-badge&logo=Chupa Chups&logoColor=white" /> -->
 </div>
